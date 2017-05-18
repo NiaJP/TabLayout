@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BaystarsInfo</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name = "author_name">半谷</string>
+    <string name = "author_address">tabby_cat_zeal@hotmail.com</string>
+    <string name = "info_toast_new">ニュースは最新です。</string>
+
+</resources>

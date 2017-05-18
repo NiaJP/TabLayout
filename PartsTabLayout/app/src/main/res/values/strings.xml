@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TabLayout20161117</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name = "author_name">半谷</string>
+    <string name = "author_address">tabby_cat_zeal@hotmail.com</string>
+
+</resources>

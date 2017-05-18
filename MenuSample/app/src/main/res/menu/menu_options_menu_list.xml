@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"    >
+
+    <item
+        android:id="@+id/menuListOptionOsusume"
+        app:showAsAction="never"
+        android:title="@string/menu_list_options_osusume"/>
+
+    <item
+        android:id="@+id/menuListOptionGeneralSet"
+        app:showAsAction="never"
+        android:title="@string/menu_list_options_general_set"/>
+
+    <item
+        android:id="@+id/menuListOptionTuutiSet"
+        app:showAsAction="never"
+        android:title="@string/menu_list_options_tuuti_set"/>
+
+    <item
+        android:id="@+id/menuListOptionWriteReview"
+        app:showAsAction="never"
+        android:title="@string/menu_list_options_write_review"/>
+
+</menu>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ViewName</string>
+    <string name="app_textview">お名前を入力してください</string>
+    <string name="app_edittext"></string>
+    <string name="app_btsave">保存</string>
+
+    <string-array name="sp_curryList">
+        <item>ドライカレー</item>
+        <item>キーマカレー</item>
+    </string-array>
+
+</resources>
